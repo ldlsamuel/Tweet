@@ -8,4 +8,5 @@ To run jar file, java8 must be installed
 
     java -jar tweet.jar
 
+When teet , use #topic as topc
     
